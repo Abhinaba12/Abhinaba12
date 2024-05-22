@@ -1,7 +1,5 @@
 <h1 align="center">Hello, I'm Abhinaba Roy</h1>
 <h3 align="center">Software Developer</h3>
-![Profile](https://github.com/Abhinaba12/Abhinaba12/assets/75931274/9bcc8370-2155-4cbf-80ce-9c87d35c897e)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaba12&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaba12" /> </p>
 
